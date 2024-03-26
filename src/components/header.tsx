@@ -1,4 +1,4 @@
-export default function Home() {
+export function Header() {
   return (
     <div>
       <h1>Devstore</h1>
